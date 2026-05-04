@@ -1,0 +1,455 @@
+[04-Apr-2026 13:06:30 UTC] PHP Deprecated:  File Theme without header.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a header.php template in your theme. in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/functions.php on line 6131
+[04-Apr-2026 13:06:31 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/functions.php on line 6131
+[04-Apr-2026 13:10:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:183
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 183
+[04-Apr-2026 13:10:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:183
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 183
+[04-Apr-2026 13:10:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:183
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 183
+[04-Apr-2026 13:10:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:183
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 183
+[04-Apr-2026 13:10:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:183
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 183
+[04-Apr-2026 13:11:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:11:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:11:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:11:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:17:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:17:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:17:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:17:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:18:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:18:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:18:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:18:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(30): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:27:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/templates/template-homepage.php(425): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:27:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "document" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php:93
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(814): require_once()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template.php(749): load_template()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/general-template.php(92): locate_template()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/404.php(36): get_footer()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/template-loader.php(132): include('/home/mysim0hsm...')
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-blog-header.php(19): require_once('/home/mysim0hsm...')
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/index.php(17): require('/home/mysim0hsm...')
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/footer.php on line 93
+[04-Apr-2026 13:54:06 UTC] Automatic updates starting...
+[04-Apr-2026 13:54:06 UTC] Automatic updates complete.
+[05-Apr-2026 02:08:43 UTC] Automatic updates starting...
+[05-Apr-2026 02:08:44 UTC] Automatic updates complete.
+[05-Apr-2026 14:33:09 UTC] Automatic updates starting...
+[05-Apr-2026 14:33:10 UTC] Automatic updates complete.
+[06-Apr-2026 02:02:04 UTC] Automatic updates starting...
+[06-Apr-2026 02:02:05 UTC] Automatic updates complete.
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Undefined array key "id" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Undefined array key "id" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 07:57:41 UTC] PHP Warning:  Trying to access array offset on false in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[06-Apr-2026 13:53:52 UTC] Automatic updates starting...
+[06-Apr-2026 13:53:53 UTC]   Automatic plugin updates starting...
+[06-Apr-2026 13:53:53 UTC]   Automatic plugin updates complete.
+[06-Apr-2026 13:53:55 UTC] Automatic updates complete.
+[07-Apr-2026 02:12:32 UTC] Automatic updates starting...
+[07-Apr-2026 02:12:32 UTC]   Automatic plugin updates starting...
+[07-Apr-2026 02:12:32 UTC]   Automatic plugin updates complete.
+[07-Apr-2026 02:12:33 UTC] Automatic updates complete.
+[07-Apr-2026 13:57:09 UTC] Automatic updates starting...
+[07-Apr-2026 13:57:11 UTC] Automatic updates complete.
+[08-Apr-2026 02:16:01 UTC] Automatic updates starting...
+[08-Apr-2026 02:16:03 UTC] Automatic updates complete.
+[08-Apr-2026 16:56:42 UTC] Automatic updates starting...
+[08-Apr-2026 16:56:44 UTC] Automatic updates complete.
+[09-Apr-2026 11:24:28 UTC] Automatic updates starting...
+[09-Apr-2026 11:24:30 UTC] Automatic updates complete.
+[09-Apr-2026 17:46:16 UTC] Automatic updates starting...
+[09-Apr-2026 17:46:17 UTC] Automatic updates complete.
+[10-Apr-2026 02:57:17 UTC] Automatic updates starting...
+[10-Apr-2026 02:57:18 UTC] Automatic updates complete.
+[10-Apr-2026 14:19:42 UTC] Automatic updates starting...
+[10-Apr-2026 14:19:44 UTC] Automatic updates complete.
+[11-Apr-2026 04:11:13 UTC] Automatic updates starting...
+[11-Apr-2026 04:11:14 UTC] Automatic updates complete.
+[11-Apr-2026 14:11:42 UTC] Automatic updates starting...
+[11-Apr-2026 14:11:44 UTC] Automatic updates complete.
+[12-Apr-2026 06:38:46 UTC] Automatic updates starting...
+[12-Apr-2026 06:38:48 UTC] Automatic updates complete.
+[13-Apr-2026 07:22:07 UTC] Automatic updates starting...
+[13-Apr-2026 07:22:08 UTC]   Automatic plugin updates starting...
+[13-Apr-2026 07:22:08 UTC]   Automatic plugin updates complete.
+[13-Apr-2026 07:22:09 UTC] Automatic updates complete.
+[14-Apr-2026 01:28:26 UTC] Automatic updates starting...
+[14-Apr-2026 01:28:27 UTC]   Automatic plugin updates starting...
+[14-Apr-2026 01:28:27 UTC]   Automatic plugin updates complete.
+[14-Apr-2026 01:28:28 UTC] Automatic updates complete.
+[14-Apr-2026 02:47:55 UTC] Automatic updates starting...
+[14-Apr-2026 02:47:55 UTC]   Automatic plugin updates starting...
+[14-Apr-2026 02:47:55 UTC]   Automatic plugin updates complete.
+[14-Apr-2026 02:47:55 UTC] Automatic updates complete.
+[14-Apr-2026 17:08:30 UTC] Automatic updates starting...
+[14-Apr-2026 17:08:31 UTC]   Automatic plugin updates starting...
+[14-Apr-2026 17:08:31 UTC]   Automatic plugin updates complete.
+[14-Apr-2026 17:08:32 UTC] Automatic updates complete.
+[15-Apr-2026 01:57:29 UTC] Automatic updates starting...
+[15-Apr-2026 01:57:29 UTC]   Automatic plugin updates starting...
+[15-Apr-2026 01:57:29 UTC]   Automatic plugin updates complete.
+[15-Apr-2026 01:57:30 UTC] Automatic updates complete.
+[15-Apr-2026 13:59:05 UTC] Automatic updates starting...
+[15-Apr-2026 13:59:06 UTC]   Automatic plugin updates starting...
+[15-Apr-2026 13:59:06 UTC]   Automatic plugin updates complete.
+[15-Apr-2026 13:59:06 UTC] Automatic updates complete.
+[16-Apr-2026 03:49:15 UTC] Automatic updates starting...
+[16-Apr-2026 03:49:20 UTC]   Automatic plugin updates starting...
+[16-Apr-2026 03:49:20 UTC]   Automatic plugin updates complete.
+[16-Apr-2026 03:49:24 UTC] Automatic updates complete.
+[16-Apr-2026 21:46:13 UTC] Automatic updates starting...
+[16-Apr-2026 21:46:14 UTC]   Automatic plugin updates starting...
+[16-Apr-2026 21:46:14 UTC]   Automatic plugin updates complete.
+[16-Apr-2026 21:46:15 UTC] Automatic updates complete.
+[17-Apr-2026 02:26:16 UTC] Automatic updates starting...
+[17-Apr-2026 02:26:16 UTC]   Automatic plugin updates starting...
+[17-Apr-2026 02:26:16 UTC]   Automatic plugin updates complete.
+[17-Apr-2026 02:26:17 UTC] Automatic updates complete.
+[17-Apr-2026 14:29:25 UTC] Automatic updates starting...
+[17-Apr-2026 14:29:25 UTC]   Automatic plugin updates starting...
+[17-Apr-2026 14:29:25 UTC]   Automatic plugin updates complete.
+[17-Apr-2026 14:29:25 UTC] Automatic updates complete.
+[19-Apr-2026 12:43:23 UTC] Automatic updates starting...
+[19-Apr-2026 12:43:24 UTC]   Automatic plugin updates starting...
+[19-Apr-2026 12:43:24 UTC]   Automatic plugin updates complete.
+[19-Apr-2026 12:43:25 UTC] Automatic updates complete.
+[19-Apr-2026 23:08:44 UTC] Automatic updates starting...
+[19-Apr-2026 23:08:44 UTC]   Automatic plugin updates starting...
+[19-Apr-2026 23:08:44 UTC]   Automatic plugin updates complete.
+[19-Apr-2026 23:08:45 UTC] Automatic updates complete.
+[20-Apr-2026 05:32:44 UTC] Automatic updates starting...
+[20-Apr-2026 05:32:44 UTC]   Automatic plugin updates starting...
+[20-Apr-2026 05:32:44 UTC]   Automatic plugin updates complete.
+[20-Apr-2026 05:32:45 UTC] Automatic updates complete.
+[21-Apr-2026 04:58:41 UTC] Automatic updates starting...
+[21-Apr-2026 04:58:42 UTC]   Automatic plugin updates starting...
+[21-Apr-2026 04:58:42 UTC]   Automatic plugin updates complete.
+[21-Apr-2026 04:58:43 UTC] Automatic updates complete.
+[22-Apr-2026 12:11:12 UTC] Automatic updates starting...
+[22-Apr-2026 12:11:13 UTC]   Automatic plugin updates starting...
+[22-Apr-2026 12:11:13 UTC]   Automatic plugin updates complete.
+[22-Apr-2026 12:11:14 UTC] Automatic updates complete.
+[22-Apr-2026 18:15:20 UTC] Automatic updates starting...
+[22-Apr-2026 18:15:21 UTC]   Automatic plugin updates starting...
+[22-Apr-2026 18:15:21 UTC]   Automatic plugin updates complete.
+[22-Apr-2026 18:15:22 UTC] Automatic updates complete.
+[23-Apr-2026 09:31:58 UTC] Automatic updates starting...
+[23-Apr-2026 09:31:58 UTC]   Automatic plugin updates starting...
+[23-Apr-2026 09:31:58 UTC]   Automatic plugin updates complete.
+[23-Apr-2026 09:31:59 UTC] Automatic updates complete.
+[23-Apr-2026 14:33:08 UTC] PHP Warning:  Undefined array key "params" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 203
+[23-Apr-2026 14:33:08 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php:95
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(207): IXR_Server->call()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(35): IXR_Server->__construct()
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/class-wp-xmlrpc-server.php(246): IXR_Server->IXR_Server()
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/xmlrpc.php(85): wp_xmlrpc_server->serve_request()
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 95
+[23-Apr-2026 14:33:11 UTC] PHP Warning:  Undefined array key "params" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 203
+[23-Apr-2026 14:33:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php:95
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(207): IXR_Server->call()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(35): IXR_Server->__construct()
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/class-wp-xmlrpc-server.php(246): IXR_Server->IXR_Server()
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/xmlrpc.php(85): wp_xmlrpc_server->serve_request()
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 95
+[23-Apr-2026 14:33:21 UTC] Automatic updates starting...
+[23-Apr-2026 14:33:22 UTC]   Automatic plugin updates starting...
+[23-Apr-2026 14:33:22 UTC]   Automatic plugin updates complete.
+[23-Apr-2026 14:33:23 UTC] Automatic updates complete.
+[23-Apr-2026 15:25:26 UTC] PHP Warning:  Undefined array key "params" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 203
+[23-Apr-2026 15:25:26 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php:95
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(207): IXR_Server->call()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(35): IXR_Server->__construct()
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/class-wp-xmlrpc-server.php(246): IXR_Server->IXR_Server()
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/xmlrpc.php(85): wp_xmlrpc_server->serve_request()
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 95
+[23-Apr-2026 15:25:27 UTC] PHP Warning:  Undefined array key "params" in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 203
+[23-Apr-2026 15:25:27 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php:95
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(207): IXR_Server->call()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall()
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call()
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve()
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php(35): IXR_Server->__construct()
+#5 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/class-wp-xmlrpc-server.php(246): IXR_Server->IXR_Server()
+#6 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/xmlrpc.php(85): wp_xmlrpc_server->serve_request()
+#7 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-includes/IXR/class-IXR-server.php on line 95
+[24-Apr-2026 01:59:46 UTC] Automatic updates starting...
+[24-Apr-2026 01:59:47 UTC]   Automatic plugin updates starting...
+[24-Apr-2026 01:59:47 UTC]   Automatic plugin updates complete.
+[24-Apr-2026 01:59:48 UTC] Automatic updates complete.
+[24-Apr-2026 14:05:38 UTC] Automatic updates starting...
+[24-Apr-2026 14:05:39 UTC]   Automatic plugin updates starting...
+[24-Apr-2026 14:05:39 UTC]   Automatic plugin updates complete.
+[24-Apr-2026 14:05:39 UTC] Automatic updates complete.
+[25-Apr-2026 03:36:46 UTC] Automatic updates starting...
+[25-Apr-2026 03:36:46 UTC]   Automatic plugin updates starting...
+[25-Apr-2026 03:36:46 UTC]   Automatic plugin updates complete.
+[25-Apr-2026 03:36:47 UTC] Automatic updates complete.
+[26-Apr-2026 04:13:21 UTC] Automatic updates starting...
+[26-Apr-2026 04:13:21 UTC]   Automatic plugin updates starting...
+[26-Apr-2026 04:13:21 UTC]   Automatic plugin updates complete.
+[26-Apr-2026 04:13:22 UTC] Automatic updates complete.
+[26-Apr-2026 14:50:03 UTC] Automatic updates starting...
+[26-Apr-2026 14:50:04 UTC]   Automatic plugin updates starting...
+[26-Apr-2026 14:50:04 UTC]   Automatic plugin updates complete.
+[26-Apr-2026 14:50:04 UTC] Automatic updates complete.
+[27-Apr-2026 11:53:54 UTC] Automatic updates starting...
+[27-Apr-2026 11:53:55 UTC]   Automatic plugin updates starting...
+[27-Apr-2026 11:53:55 UTC]   Automatic plugin updates complete.
+[27-Apr-2026 11:53:55 UTC] Automatic updates complete.
+[27-Apr-2026 17:36:55 UTC] Automatic updates starting...
+[27-Apr-2026 17:36:56 UTC]   Automatic plugin updates starting...
+[27-Apr-2026 17:36:56 UTC]   Automatic plugin updates complete.
+[27-Apr-2026 17:36:57 UTC] Automatic updates complete.
+[28-Apr-2026 06:29:38 UTC] Automatic updates starting...
+[28-Apr-2026 06:29:39 UTC]   Automatic plugin updates starting...
+[28-Apr-2026 06:29:39 UTC]   Automatic plugin updates complete.
+[28-Apr-2026 06:29:42 UTC] Automatic updates complete.
+[28-Apr-2026 13:58:43 UTC] Automatic updates starting...
+[28-Apr-2026 13:58:44 UTC]   Automatic plugin updates starting...
+[28-Apr-2026 13:58:44 UTC]   Automatic plugin updates complete.
+[28-Apr-2026 13:58:45 UTC] Automatic updates complete.
+[29-Apr-2026 02:38:08 UTC] Automatic updates starting...
+[29-Apr-2026 02:38:08 UTC]   Automatic plugin updates starting...
+[29-Apr-2026 02:38:08 UTC]   Automatic plugin updates complete.
+[29-Apr-2026 02:38:09 UTC] Automatic updates complete.
+[29-Apr-2026 17:43:04 UTC] Automatic updates starting...
+[29-Apr-2026 17:43:04 UTC]   Automatic plugin updates starting...
+[29-Apr-2026 17:43:04 UTC]   Automatic plugin updates complete.
+[29-Apr-2026 17:43:05 UTC] Automatic updates complete.
+[30-Apr-2026 03:46:30 UTC] Automatic updates starting...
+[30-Apr-2026 03:46:30 UTC]   Automatic plugin updates starting...
+[30-Apr-2026 03:46:30 UTC]   Automatic plugin updates complete.
+[30-Apr-2026 03:46:31 UTC] Automatic updates complete.
+[30-Apr-2026 14:32:35 UTC] Automatic updates starting...
+[30-Apr-2026 14:32:35 UTC]   Automatic plugin updates starting...
+[30-Apr-2026 14:32:35 UTC]   Automatic plugin updates complete.
+[30-Apr-2026 14:32:36 UTC] Automatic updates complete.
+[01-May-2026 12:54:32 UTC] Automatic updates starting...
+[01-May-2026 12:54:33 UTC]   Automatic plugin updates starting...
+[01-May-2026 12:54:33 UTC]   Automatic plugin updates complete.
+[01-May-2026 12:54:34 UTC] Automatic updates complete.
+[01-May-2026 15:24:12 UTC] Automatic updates starting...
+[01-May-2026 15:24:12 UTC]   Automatic plugin updates starting...
+[01-May-2026 15:24:12 UTC]   Automatic plugin updates complete.
+[01-May-2026 15:24:13 UTC] Automatic updates complete.
+[02-May-2026 11:18:19 UTC] Automatic updates starting...
+[02-May-2026 11:18:20 UTC]   Automatic plugin updates starting...
+[02-May-2026 11:18:20 UTC]   Automatic plugin updates complete.
+[02-May-2026 11:18:21 UTC] Automatic updates complete.
+[02-May-2026 17:37:01 UTC] Automatic updates starting...
+[02-May-2026 17:37:01 UTC]   Automatic plugin updates starting...
+[02-May-2026 17:37:01 UTC]   Automatic plugin updates complete.
+[02-May-2026 17:37:02 UTC] Automatic updates complete.
+[03-May-2026 11:42:36 UTC] Automatic updates starting...
+[03-May-2026 11:42:37 UTC]   Automatic plugin updates starting...
+[03-May-2026 11:42:37 UTC]   Automatic plugin updates complete.
+[03-May-2026 11:42:38 UTC] Automatic updates complete.
+[03-May-2026 16:28:15 UTC] Automatic updates starting...
+[03-May-2026 16:28:16 UTC]   Automatic plugin updates starting...
+[03-May-2026 16:28:16 UTC]   Automatic plugin updates complete.
+[03-May-2026 16:28:16 UTC] Automatic updates complete.

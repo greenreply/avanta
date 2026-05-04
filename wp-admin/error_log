@@ -1,0 +1,10 @@
+[30-Mar-2026 03:00:45 UTC] PHP Warning:  require(/home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/classes/class-avanta-svg-icons.php): Failed to open stream: No such file or directory in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/functions.php on line 154
+[30-Mar-2026 03:00:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/classes/class-avanta-svg-icons.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/functions.php:154
+Stack trace:
+#0 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-settings.php(710): include()
+#1 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-config.php(102): require_once('/home/mysim0hsm...')
+#2 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-load.php(50): require_once('/home/mysim0hsm...')
+#3 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-admin/admin.php(35): require_once('/home/mysim0hsm...')
+#4 /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-admin/themes.php(10): require_once('/home/mysim0hsm...')
+#5 {main}
+  thrown in /home/mysim0hsmf2s/public_html/avanta.ashishoza.co.in/wp-content/themes/avanta/functions.php on line 154
